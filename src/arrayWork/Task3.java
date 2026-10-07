@@ -11,6 +11,7 @@ public class Task3 {
 			ar[end] = temp;
 			start++;
 			end--;
+		
 		}
 	}
 
